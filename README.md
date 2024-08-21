@@ -1,4 +1,8 @@
-## Hi there 👋
+In 2002, I graduated from TKU EE and became an army officer.  
+In 2004, I completed my service and became an IC product engineer.  
+In 2011, I graduated from NTNU EE and became an IT/CS teacher.  
+In 2013, I survived an accident and became a Python preacher.  
+Since 2018, I am committed to being a coder, hacker, learner in AI.
 
 <!--
 **x1001000/x1001000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
